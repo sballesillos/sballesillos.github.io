@@ -1,0 +1,172 @@
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+
+p {
+    color: #646464;
+}
+h1,h2,h3 {
+	font-family: 'Roboto', sans-serif;
+    color: #0f1e5d;
+}
+
+h1 {
+    font-size: 30px;
+	
+}
+
+
+
+body{
+	
+	background-color: #dcddd5;
+}
+
+
+
+.contenedorprincipal{
+	width: 96%;
+	margin-left: 2%;
+	background-color: #dcddd5;
+}
+
+
+.columna1{
+	display:inline-block;
+	align:right;
+	width: 49%;
+	vertical-align: top;
+	background-color:#cccccc;
+	height: auto;
+	padding-left: 10px;
+}
+
+.columna2{
+	display:inline-block;
+	width: 49%;
+	vertical-align: top;
+background-color:#737373;
+	height: auto;
+	padding-left: 10px;
+	
+}
+
+h1{
+	color:#737373;
+	background-color: #ffffff;
+	padding: 10px;
+	
+}
+
+.columna1 h3{
+	color: #545454;
+	
+}
+.columna2 h3{
+	color: #737373;
+	background-color: #ffffff;
+	padding: 5px;
+	width: 98%;
+	
+}
+
+
+.columna2 p{
+	color: #ffffff;
+	text-align: justify;
+	width: 95%;
+	line-height: 25px;
+	
+}
+
+.columnaA{
+	color:#737373;
+	width: 49%;
+	height: auto;
+	float: left;
+	
+}
+
+.columnaB{
+	color:#737373;
+	width: 49%;
+	height: 200px;
+	float: right;
+	
+}
+
+
+.columnaC{
+	color:#737373;
+	width: 50%;
+	height: auto;
+	background-color: #ffffff;
+	float: left;
+	
+}
+
+.columnaC a{
+	margin-left: 10px;
+	line-height: 25px;
+	color:#737373;
+	font-weight: bold;
+	
+	
+}
+
+.columnaD{
+	color:#737373;
+	width: 50%;
+	height: auto;
+	background-color: #ffffff;
+	float: right;
+	
+}
+
+.columnaD a{
+	margin-left: 10px;
+	line-height: 25px;
+	color:#737373;
+	font-weight: bold;
+	
+	
+}
+
+.columnaE{
+	color:#ffffff;
+	width: 99%;
+	clear: both;
+	background-color:#737373;
+	height: auto;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.columnaE h3{
+	color: #737373;
+	background-color: #ffffff;
+	padding: 5px;
+	width: 98%;
+	
+}
+
+
+.columnaE p{
+	color: #ffffff;
+	text-align: justify;
+	width: 95%;
+	line-height: 25px;
+	
+}
+
+.columnaE button{
+	background-color: #CCCCCC;
+	color: #545454;
+	padding: 5px;
+	font-size: 15px;
+	font-weight: bold;
+	border: none;
+	margin-bottom: 20px;
+	
+}
